@@ -18,7 +18,7 @@ jobs:
 #      - name: Test
 #        run: |
 #          npm test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
-# Hola profe 
+# Hola profe ya me salio
       - name: make .env 
         uses: SpicyPizza/create-envfile@v1.3
         with:
